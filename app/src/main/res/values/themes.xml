@@ -1,0 +1,5 @@
+<resources>
+    <!-- Définir un thème personnalisé sans barre d'action -->
+    <style name="Theme.MyApp.NoActionBar" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+    </style>
+</resources>

@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Farmacia Central",
+    "address": "Calle Falsa 123",
+    "phone": "123-456-789"
+  },
+  {
+    "name": "Farmacia Salud",
+    "address": "Avenida Siempre Viva 456",
+    "phone": "987-654-321"
+  },
+  {
+    "name": "Farmacia La Esperanza",
+    "address": "Calle Primavera 789",
+    "phone": "555-123-456"
+  }
+]
